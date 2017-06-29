@@ -1,0 +1,31 @@
+body{ background-color: #efefef;
+}
+
+header{ background-color: #dedede;
+}
+
+h2 { font-size: 22px;}
+
+nav{
+  length:100%;
+}
+
+figure{
+  margin: 0px 5px;
+}
+
+.nav{
+display:inline;
+}
+ .float{
+   float: left;
+ }
+
+ .feedback{
+   margin: 20px 0px;
+ }
+
+/* I like the a:link color so leaving as default */
+a:visited{
+  color: grey;
+}
